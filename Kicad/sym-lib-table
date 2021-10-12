@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MT3420C)(type Legacy)(uri ${KIPRJMOD}/lib/MT3420C.lib)(options "")(descr ""))
+)
